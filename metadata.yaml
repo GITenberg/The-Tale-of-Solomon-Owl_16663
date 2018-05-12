@@ -1,0 +1,36 @@
+_repo: The-Tale-of-Solomon-Owl_16663
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Harry L.
+    gutenberg_agent_id: '7268'
+    url: http://www.gutenberg.org/2009/agents/7268
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, Arthur Scott
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '1842'
+    url: http://www.gutenberg.org/2009/agents/1842
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
+description: These fictional stories teach basic science of the animal and insect
+  world through the lives of characters and explore various animal characteristics,
+  environments and predators as well as tell a good tale.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Owls -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: The Tale of Solomon Owl
+url: http://www.gutenberg.org/ebooks/16663
