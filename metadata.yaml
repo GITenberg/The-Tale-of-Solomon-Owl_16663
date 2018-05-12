@@ -19,6 +19,8 @@ creator:
 description: These fictional stories teach basic science of the animal and insect
   world through the lives of characters and explore various animal characteristics,
   environments and predators as well as tell a good tale.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16663#The-Tale-of-Solomon-Owl
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-09-05'
 gutenberg_type: Text
